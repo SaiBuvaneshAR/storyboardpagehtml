@@ -1,0 +1,110 @@
+.face
+{
+    border: 1px solid black;
+    height:  200px;
+    width: 200px;
+    border-radius:100px ;
+    position: relative;
+    background-color: pink;
+
+}
+.ears1
+{
+    
+    height:  40px;
+    width: 50px;
+    border-radius:  150px 150px 0px 0px;
+    position: absolute;
+    top: -150px;
+    left: 80px;
+    rotate: 30deg;
+    background-color: rgb(177, 76, 93);
+}
+.ears2
+{
+    
+    height:  40px;
+    width: 50px;
+    border-radius:  150px 150px 0px 0px;
+    position: absolute;
+    top: -150px;
+    left: -40px;
+    rotate: 330deg;
+    background-color: rgb(177, 76, 93);
+}
+.eye1 {
+    border: 1px solid black;
+    height:  60px;
+    width: 60px;
+    border-radius: 35px;
+    position: absolute;
+    top: 50px;
+    left: 30px;
+    background-color: white;
+}
+.eye2 {
+    border: 1px solid black;
+    height:  60px;
+    width: 60px;
+    border-radius: 35px;
+    position: absolute;
+    top: 50px;
+    left: 120px;
+    background-color: white;
+}
+.mouth{
+    border: 1px solid black;
+    height:  50px;
+    width: 95px;
+    border-radius: 50px 50px 50px 50px;
+    position: absolute;
+    top: 120px;
+    left: 55px;
+    background-color: rgb(255, 53, 130);
+}
+.ret1
+{
+    border:1px solid black ;
+    height: 35px;
+    width: 35px;
+    border-radius: 25px;
+    background-color: black;
+    position: relative;
+    top: 10px;
+}
+.ret2
+{
+    border:1px solid black ;
+    height: 35px;
+    width: 35px;
+    border-radius: 25px;
+    background-color: black;
+    position: relative;
+    top:10px;
+    
+}
+.nose1
+{
+    border:1px solid black ;
+    height: 25px;
+    width: 25px;
+    border-radius: 15px;
+    background-color: black;
+    position: relative;
+    top: 10px;
+    left: 18px;
+}
+.nose2
+{
+    border:1px solid black ;
+    height: 25px;
+    width: 25px;
+    border-radius: 15px;
+    background-color: black;
+    position: relative;
+    top: -17px;
+    left: -16px;
+
+    
+
+}
